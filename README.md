@@ -35,3 +35,23 @@ If you prefer to run the notebook locally, follow these steps:
 4. Run Jupyter Notebook:
    ```bash 
     jupyter notebook
+
+#### Data Visualizations
+
+While the sample set is small, for demonstration purposes, here are examples of the sample sets, in html format:
+
+#### Word Frequency by Sentiment:
+https://jonnyvpc.github.io/Real-Estate-Analysis/word_frequency_by_sentiment.html
+
+#### Interactive Word Cloud:
+[Interactive Word Cloud:](https://jonnyvpc.github.io/Real-Estate-Analysis/wordcloud_interactive.html)
+
+#### Sentiment Over Time:
+[[Interactive Word Cloud:](https://jonnyvpc.github.io/Real-Estate-Analysis/wordcloud_interactive.html)](https://jonnyvpc.github.io/Real-Estate-Analysis/sentiment_over_time.html)
+
+#### Word Frequency by Sentiment:
+https://jonnyvpc.github.io/Real-Estate-Analysis/word_frequency_by_sentiment.htm
+
+## Static Word Cloud
+https://jonnyvpc.github.io/Real-Estate-Analysis/wordcloud.html
+
