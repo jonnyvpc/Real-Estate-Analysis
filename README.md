@@ -52,6 +52,6 @@ https://jonnyvpc.github.io/Real-Estate-Analysis/word_frequency_by_sentiment.html
 #### Word Frequency by Sentiment:
 https://jonnyvpc.github.io/Real-Estate-Analysis/word_frequency_by_sentiment.htm
 
-## Static Word Cloud
+#### Static Word Cloud
 https://jonnyvpc.github.io/Real-Estate-Analysis/wordcloud.html
 
