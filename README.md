@@ -1,12 +1,12 @@
 # Real-Estate-Analysis
 
-This repository contains a Jupyter Notebook for analyzing real estate reviews using sentiment analysis, keyword frequency, and word cloud visualizations.
+This repository contains a Jupyter Notebook for analyzing real estate reviews using sentiment analysis, keyword frequency, and word cloud visualizations. This is a sample set, however, having data visualization can help improve your marketing and sales tactics across multiple touchpoints throughout your Enterprise, while training your Team on a shared and unified Customer profile.
 
 ## Setup Instructions
 
 ### Requirements
 
-Make sure you have the following dependencies listed in the `requirements.txt` file:
+Before you get started, make sure you have the following dependencies. They are listed in the `requirements.txt` file:
 
 - pandas
 - nltk
